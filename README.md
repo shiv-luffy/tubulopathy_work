@@ -30,7 +30,7 @@ Children with clinically diagnosis or suspected to have renal tubulopathy (child
 
 ### Results
 
-- Diagnostic yield of genomic testing in various diagnostic  categories of renal tubular disorders in children <br>  
+- Diagnostic yield of genomic testing in various diagnostic categories of renal tubular disorders in children <br>  
 
 <img src='images/pie_donut.jpg'>
 
@@ -40,7 +40,7 @@ Children with clinically diagnosis or suspected to have renal tubulopathy (child
 <img src='images/onco.png'>
 
 Each row represents a gene and each column a patient along with the type of variant (colored squares), family history (FH) & consanguinity (HC) and age at diagnosis (lower graph)  <br>  
-- Variants detected by ES following in-house tertiary analysis pipeline <br>  
+- Variants detected by ES following **_in-house_ tertiary analysis pipeline** <br>  
 
 <img src='images/result.jpg'>
 
