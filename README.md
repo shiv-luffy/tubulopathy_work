@@ -34,8 +34,7 @@ Children with clinically diagnosis or suspected to have renal tubulopathy (child
 
 <img src='images/pie_donut.jpg'>
 
-
-The outer circle represents the distribution of children in (%) in  various categories of renal tubular disorders. In the inner circle, darker shade of color represents the proportion (%) of causative variants identified within each diagnostic categories  <br>  
+<br>  
 - Summary of distribution of causative variants on the basis of individual genes associated with renal tubular disorders  <br>  
 
 <img src='images/onco.png'>
